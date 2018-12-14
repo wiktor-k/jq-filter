@@ -1,0 +1,21 @@
+{
+  "name": "jq-filter",
+  "version": "1.0.0",
+  "description": "Filters JSON-per-line input",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https+git://github.com/wiktor-k/jq-filter.git"
+  },
+  "keywords": [
+    "jq",
+    "filter",
+    "json",
+    "query"
+  ],
+  "author": "Wiktor Kwapisiewicz",
+  "license": "Apache-2.0"
+}
